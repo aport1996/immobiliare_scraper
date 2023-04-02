@@ -1,6 +1,6 @@
 # Immobiliare Scraper
 
-Immobiliare Scraper is a Python script that fetches and analyzes real estate data from [Immobiliare.it](https://www.immobiliare.it). The script computes the average price per square meter for new and old houses in the Triante-San Giuseppe area of Monza, Italy.
+Immobiliare Scraper is a Python script that fetches and analyzes real estate data from [Immobiliare.it](https://www.immobiliare.it). The script computes the average price per square meter for new and old houses in the Triante-San Giuseppe area of Monza, Italy by default, but you can change the URL in the script based on your desired area, simply choose it from the website and copy the url directly from your browser, and replace it with the existing one in this script.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Immobiliare Scraper is a Python script that fetches and analyzes real estate dat
 ## Features
 
 - Fetches real estate data from Immobiliare.it
-- Calculates average price per square meter for new and old houses
+- Calculates average price per square meter for new and old houses and also the combined price per average without accounting for new and old houses.
 - Option to enable debug mode for more detailed output
 
 ## Requirements
