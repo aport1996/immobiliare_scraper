@@ -27,15 +27,15 @@ Immobiliare Scraper is a Python script that fetches and analyzes real estate dat
 
 1. Clone this repository:
 
-git clone https://github.com/aport1996/immobiliare_scraper.git
+   git clone https://github.com/aport1996/immobiliare_scraper.git
 
 2. Change into the project directory:
 
-cd immobiliare_scraper
+   cd immobiliare_scraper
 
 3. Install the required Python packages:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Usage
 
